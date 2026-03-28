@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ThemeChanger/ThemeChanger.vcxproj" Id="65aa998d-fe3b-49ad-8a21-228139dcef88">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
