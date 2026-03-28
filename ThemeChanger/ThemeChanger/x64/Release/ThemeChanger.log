@@ -1,8 +1,0 @@
-﻿  main.c
-F:\Visual Studio\Project\ThemeChanger\ThemeChanger\main.c(1130,23): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
-  正在生成代码
-  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  ThemeChanger.vcxproj -> F:\Visual Studio\Project\ThemeChanger\x64\Release\ThemeChanger.exe
