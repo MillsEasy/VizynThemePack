@@ -1,2 +1,2 @@
-1.2
-https://vizyn.dpdns.org/update/VizynThemeChanger.exe
+1.0
+https://raw.githubusercontent.com/MillsEasy/VizynThemePack/main/VizynThemeChanger.exe
