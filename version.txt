@@ -1,2 +1,2 @@
-1.0
+1.3
 https://raw.githubusercontent.com/MillsEasy/VizynThemePack/main/VizynThemeChanger.exe
